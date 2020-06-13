@@ -28,7 +28,7 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [tensorflow](https://www.tensorflow.org/)
 - [tensorflow_hub](https://www.tensorflow.org/)
 - [tensorflow_datasets](https://www.tensorflow.org/)
-- [PIL] (http://www.pythonware.com/products/pil/)
+- [PIL](http://www.pythonware.com/products/pil/)
 
 You will also need to have Juypyter software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
