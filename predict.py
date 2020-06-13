@@ -3,13 +3,13 @@
 #
 # Input:
 #      - TOPKCLASSES; Number of classes algortihm provider the probabilty estimate
-#      - CATEGORYFILE_PATH; Mapping of the image integer label codes into flower names as .json file
-#      - image_path; path the image to be classified
+#      - CATEGORYFILE_PATH;  path to .json file containing the mapping of the image integer label codes into flower names
+#      - image_path; path to the image to be classified
 #      - savedmode_path; path to the flower image classifier Keras model (hd5 format) 
 # 
-# Usage: predict.py [-h] [--top_k TOPKCLASSES]
-#                  [--category_names CATEGORYFILE_PATH]
-#                  image_path savedmodel_path 
+# Usage: python predict.py [-h] [--top_k TOPKCLASSES]
+#                          [--category_names CATEGORYFILE_PATH]
+#                          image_path savedmodel_path 
 #
 
 
